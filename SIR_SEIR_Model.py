@@ -56,6 +56,7 @@ for spine in ('top', 'right', 'bottom', 'left'):
 plt.show()
 
 
+
 #-----------------------ON GITHUB DINAMYC GRAPH----------------------------
 import plotly.graph_objects as go
 
